@@ -1,7 +1,7 @@
 notes:
-1) this is for windoes only (i didn't bother to make it work on other platfrom, even if it's just pointing out to different generaotrs)
-2) you have maven installed
-3) you have java v1.8 or above
+1. this is for windoes only (i didn't bother to make it work on other platfrom, even if it's just pointing out to different generaotrs)
+2. you have maven installed
+3. you have java v1.8 or above
 
 
 # How to use:
